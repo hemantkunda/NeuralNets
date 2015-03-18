@@ -1,0 +1,17 @@
+NUMTRAINING 12
+NUMINPUTS 2025
+NUMHIDDEN 200
+NUMOUTPUTS 4
+NUMTEST 14
+TESTFILEPATH test_faces/
+TRAININGFILEPATH training_faces/
+WEIGHTSFILENAME faces-2.txt
+TRAININGSETFILENAME facestrainingset.txt
+LAMBDA 1.5
+RECALCTHRESHOLD 1000000
+ERRORTHRESHOLD .00005
+MAXSTARTWEIGHT 1
+MINSTARTWEIGHT -1
+TESTBMPS alex anika hemant jonathan nathan nikhil nikita pranav rishabh ryan vineet zabin ein nixon
+INPUTBMPS alex anika hemant jonathan nathan nikhil nikita pranav rishabh ryan vineet zabin 
+
